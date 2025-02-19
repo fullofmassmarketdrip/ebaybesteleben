@@ -1,6 +1,6 @@
 var searchLink = "https://www.ebay-kleinanzeigen.de/s-zu-verschenken-tauschen/stuttgart/c272l9280r20";
-var telegram_token = "727307587:A_______________IMgz-od7M";
-var telegram_chatId = "-38_____51";
+var telegram_token = "7794986354:AAE4uTQyVOHXn1qmELPDD7f1AqrtqwX7jCc";
+var telegram_chatId = "7320437255";
 
 
 var shortUrl = require('node-url-shortener');
